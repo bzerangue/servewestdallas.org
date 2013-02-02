@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <organization>
+    <name>Serve West Dallas</name>
+    <location>
+      <address>2215 Canada Dr.</address>
+      <city>Dallas</city>
+      <state abbreviation="TX">Texas</state>
+      <zip-code>75212</zip-code>
+    </location>
+    <phone>(214) 637-7741 x114</phone>
+    <url>http://servicewestdallas.site</url>
+  </organization>
+	<pages>
+		
+	</pages>
+	<social-networks>
+		<entry>
+      <name>YouTube</name>
+      <url>http://www.youtube.com/user/ServeWestDallas</url>
+    </entry>
+    <entry>
+      <name>Flickr</name>
+      <url>http://servewestdallas.site/photos</url>
+    </entry>
+    <entry>
+      <name>Facebook</name>
+      <url>http://www.facebook.com/pages/Serve-West-Dallas/268886519269</url>
+    </entry>
+	</social-networks>
+</data>
